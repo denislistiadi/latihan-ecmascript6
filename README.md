@@ -125,4 +125,5 @@ Sebelum ES6, mengimport module menggunakan <script"></script> tag. Di ES6, mengi
     import {name, age} from "module.js";
 ```
 
-Dan didalam Directory script adalah latihan menulis kode menggunakan ES6.
+
+##### Dan didalam directory *src/script* adalah latihan mengubah kode saya agar sesuai dengan EcmaScript 6.
