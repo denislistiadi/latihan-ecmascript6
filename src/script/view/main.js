@@ -1,5 +1,5 @@
 // import modules
-import DataSource from "../data-source.js";
+import DataSource from "../data/data-source.js";
 
 const main = function () {
     const searchElement = document.querySelector("#searchElement");
